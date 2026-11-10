@@ -1,13 +1,7 @@
 ## Screenshots
 
 ### Home Page
-![Home Page](docs/screenshots/home.png)
-
-### Bike Listing
-![Bike Listing](docs/screenshots/bike-list.png)
-
-### Admin Dashboard
-![Admin Dashboard](docs/screenshots/admin-dashboard.png)
+![Home Page](docs/screenshots/Home Page.jpeg)
 
 # JOY-RIDE — Bike Rental & Ride Sharing System
 
@@ -28,6 +22,9 @@ JOY-RIDE provides a platform for users to browse bikes, check availability, subm
 - Upload payment-slip files for rental processing
 - Submit and view reviews
 
+### Admin Dashboard
+![Admin Dashboard](docs/screenshots/Admin Dashboard.jpeg)
+
 ### Administrator features
 - Admin login and profile management
 - Add, update, and delete bikes
@@ -38,6 +35,9 @@ JOY-RIDE provides a platform for users to browse bikes, check availability, subm
 ### Data structures and algorithms
 - Circular queue implementation for handling rental requests
 - Quick Sort implementation in the bike-list workflow
+
+### Bike Listing
+![Bike Listing](docs/screenshots/List page.jpeg)
 
 ## Technology stack
 

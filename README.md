@@ -1,6 +1,5 @@
-## Screenshots
+### Java-based Bike Rental & Ride Sharing Web Application | SLIIT Year 1 Group Project
 
-### Home Page
 ![Home Page](docs/screenshots/home-page.jpeg)
 
 # JOY-RIDE — Bike Rental & Ride Sharing System

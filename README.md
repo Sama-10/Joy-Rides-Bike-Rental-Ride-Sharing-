@@ -1,3 +1,14 @@
+## Screenshots
+
+### Home Page
+![Home Page](docs/screenshots/home.png)
+
+### Bike Listing
+![Bike Listing](docs/screenshots/bike-list.png)
+
+### Admin Dashboard
+![Admin Dashboard](docs/screenshots/admin-dashboard.png)
+
 # JOY-RIDE — Bike Rental & Ride Sharing System
 
 A Java-based web application developed as a six-member Year 1, Semester 2 group project at the Sri Lanka Institute of Information Technology (SLIIT) for the Object-Oriented Programming (OOP) and Data Structures & Algorithms (DSA) modules.
